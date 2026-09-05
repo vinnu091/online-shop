@@ -1,5 +1,5 @@
 # Commands - Online Shopping Protal
- 
+
 1. Cloning Repository
     ```powershell
     git clone REPOSITORY
