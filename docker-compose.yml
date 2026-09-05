@@ -2,6 +2,7 @@ services:
   online-app:
     build:
       context: .
+      Dockerfile: 'Dockerfile-multi'
     ports:
       - "5173:5173"
     networks:
